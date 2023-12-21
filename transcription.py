@@ -1,7 +1,7 @@
 import streamlit as st
 import openai
 
-API_KEY = "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 "
+API_KEY = st.secrets["API_KEY"]
 model_id = "whisper-1"
 
 audio = st.file_uploader("Upload a file")
