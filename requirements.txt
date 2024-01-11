@@ -1,2 +1,7 @@
 openai
 openai-whisper
+<<<<<<< HEAD
+=======
+ffmpeg-python
+ffmpeg
+>>>>>>> 5be2022c5cf205321bd1186eebf2bf50abc112ff
